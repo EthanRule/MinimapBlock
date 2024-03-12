@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: MinimapBlock
+## Notes: Hides the minimap.
+## Version: 1.0
+## Author: Ethan Rule
+MinimapBlock.lua
