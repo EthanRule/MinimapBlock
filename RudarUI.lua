@@ -30,8 +30,4 @@ frame:SetScript("OnUpdate", function(self, elapsed)
     FocusFrame.TargetFrameContent.TargetFrameContentMain.LevelText:Hide()
     TargetFrame.TargetFrameContent.TargetFrameContentMain.ReputationColor:Hide()
     FocusFrame.TargetFrameContent.TargetFrameContentMain.ReputationColor:Hide()
-
-    -- HP color
-    
-
 end)
